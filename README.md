@@ -3,7 +3,7 @@
 
 The files in this repository were used to configure the network depicted below.
 
-https://drive.google.com/file/d/1W5-1488MwIS4BFWLpf8ZkfBQjea9uRMK/view?usp=sharing
+https://github.com/Diazultaz/ELK-Project/blob/master/Diagrams/ELK%20Project.png
 
 These files have been tested and used to generate a live ELK deployment on Azure. 
 They can be used to either recreate the entire deployment pictured above. 
